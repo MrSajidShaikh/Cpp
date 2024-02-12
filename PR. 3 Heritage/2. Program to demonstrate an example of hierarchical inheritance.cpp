@@ -40,4 +40,6 @@ int main()
 	
 	s1.get();
 	c1.get();
+	
+	return 0;
 }
